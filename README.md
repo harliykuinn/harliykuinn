@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hey everyone! I'm Tasya AKA the Tokyo Girl 👋
 
 <!--
 **harliykuinn/harliykuinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Your paragraph text (1)](https://github.com/user-attachments/assets/714ecbf1-78a8-4b33-8893-9c2a1ed5a676)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
