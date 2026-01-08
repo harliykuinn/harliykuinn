@@ -46,7 +46,7 @@
 
 ## Welcome to my GitHub page ★
 
-I’m **<a href="https://www.miraya.tech"> Tasya ⋆.𐙚 ̊</a>** — currently a 4th year student in Japan ⛩️ majoring in Politics but I love me some good coding skills.
+I’m **<a href="https://www.tasya.tech"> Tasya ⋆.𐙚 ̊</a>** — currently a 4th year student in Japan ⛩️ majoring in Politics but I love me some good coding skills.
 <br/>
 I build projects around **Databases about Politics of Memory** for my thesis in uni.
 <br/>
