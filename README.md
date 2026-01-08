@@ -6,9 +6,13 @@
 <div align="center">
 
 <!-- Header banner (soft wave style) -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:f3f4f6&height=180&section=header&text=⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹&fontSize=42&fontColor=111827&animation=fadeIn&fontAlignY=35"
-/>
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/harliykuinn/harliykuinn/main/coding.gif"
+    alt="header gif"
+    style="width:100%; max-height:280px; object-fit:cover;"
+  />
+</div>
 
 <!-- Typing "gif" (SVG animation) -->
 <img
