@@ -1,4 +1,4 @@
-## Hey everyone! I'm Tasya AKA the Tokyo Girl 👋
+## Hey everyone! I'm Tasya AKA your Tokyo Girl 🗼 <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 <!--
 **harliykuinn/harliykuinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,11 +46,15 @@
 
 ## Welcome to my GitHub page ★
 
-I’m **Tasya ⋆.𐙚 ̊** — currently a 4th year student in Japan majoring in Politics but I love me some good coding skills.
+I’m **<a href="https://www.miraya.tech"> Tasya ⋆.𐙚 ̊</a>** — currently a 4th year student in Japan ⛩️ majoring in Politics but I love me some good coding skills.
 <br/>
-I build projects around **Databases about Politics of Memory**.
+I build projects around **Databases about Politics of Memory** for my thesis in uni.
 <br/>
-Right now, I’m focused on **AI & Data Division and of course building portfolio projects**
+I design and build whatever I can imagine.
+<br/>
+If an idea pops into my head, chances are I’ll build it and ship it.
+<br/>
+Right now, I’m focused on **AI & Data Division** and building more and mooooore portfolio projects.
 <br/>
 
 ## My favorite tools and technologies 💻✨
