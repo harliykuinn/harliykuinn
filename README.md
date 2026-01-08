@@ -14,6 +14,9 @@
   />
 </div>
 
+<br/>
+<br/>
+
 <!-- Typing "gif" (SVG animation) -->
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2500&pause=800&color=111827&center=true&vCenter=true&width=820&lines=%F0%9F%91%8B+Hi+there!+I'm+Tasya;Yay+you+made+it+here!;Welcome+to+my+GitHub+profile!"
