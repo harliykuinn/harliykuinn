@@ -47,7 +47,9 @@
 ## Welcome to my GitHub page ★
 
 I’m **Tasya ⋆.𐙚 ̊** — currently a 4th year student in Japan majoring in Politics but I love me some good coding skills.
+<br/>
 I build projects around **Databases about Politics of Memory**.
+<br/>
 Right now, I’m focused on **AI & Data Division and of course building portfolio projects**
 <br/>
 
