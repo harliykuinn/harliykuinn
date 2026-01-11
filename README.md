@@ -48,13 +48,18 @@
 
 I’m **<a href="https://www.tasya.tech"> Tasya ⋆.𐙚 ̊</a>** — currently a 4th year student in Japan ⛩️ majoring in Politics but I love me some good coding skills.
 <br/>
+<br/>
 I build projects around **Databases about Politics of Memory** for my thesis in uni.
+<br/>
 <br/>
 I design and build whatever I can imagine.
 <br/>
+<br/>
 If an idea pops into my head, chances are I’ll build it and ship it.
 <br/>
+<br/>
 Right now, I’m focused on **AI & Data Division** and building more and mooooore portfolio projects.
+<br/>
 <br/>
 
 ## My favorite tools and technologies 💻✨
